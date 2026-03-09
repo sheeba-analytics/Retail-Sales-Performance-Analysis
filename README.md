@@ -35,16 +35,16 @@ Power BI was used for interactive data visualization and dashboard creation.
 ![Sales Overview](screenshots/sales_overview.png)
 
 ### Category Performance Analysis
-![Category Performance Analysis](screenshots/Trends_overtime.png)
+![Category Performance Analysis](screenshots/category_performance.png)
 
-### Town Region Analysis
-![Town Region Analysis](screenshots/Town_region_analysis.png)
+### Discount Strategy Analysis
+![Discount Strategy Analysis](screenshots/discount_strategy_analysis.png)
 
-### Town Clusters
-![Town Clusters](screenshots/Town_clusters.png)
+### Value Score Analysis
+![Value Score Analysis](screenshots/value_score_analysis.png)
 
-### Flat Price Analysis
-![Flat Price Analysis](screenshots/Flat_Price_Analysis.png)
+### Rating Analysis
+![Rating Analysis](screenshots/rating_analysis.png)
 
 
 
