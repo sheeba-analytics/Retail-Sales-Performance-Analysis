@@ -4,7 +4,7 @@ The Power BI dashboard visualizes retail business performance and pricing strate
 
  Main dashboard sections:
 
-#Sales Overview
+# Sales Overview
 
 • Total Sales
 
