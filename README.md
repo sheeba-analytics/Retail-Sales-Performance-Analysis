@@ -14,7 +14,6 @@ High discounts do not always lead to higher customer satisfaction or profitabili
 Without clear insights, pricing strategies and product promotions may not effectively support business growth. This project analyzes pricing, discounts, ratings, and value metrics to support data-driven retail decision-making.
 
 ## Project Objectives
-
 - Analyze product distribution and sales performance across categories
 - Evaluate discount strategies and pricing effectiveness
 - Identify high-performing and high-value products
@@ -30,7 +29,6 @@ SQL was used for validating business logic and metrics.
 Power BI was used for interactive data visualization and dashboard creation. 
 
 ## Dashboard Preview
-
 ### Sales Overview
 ![Sales Overview](screenshots/sales_overview.png)
 
@@ -46,10 +44,34 @@ Power BI was used for interactive data visualization and dashboard creation.
 ### Rating Analysis
 ![Rating Analysis](screenshots/rating_analysis.png)
 
+## Key Insights
+- Total sales amount to 261.96M, indicating strong overall revenue scale.
+- The product catalog contains 237K products, showing a wide product assortment.
+- The average customer rating is 3.81, reflecting generally positive customer feedback.
+- The average discount rate is 55.19%, indicating a heavily discount-driven pricing strategy.
+- Discounts alone do not always translate to higher value perception among customers.
+- Some categories generate high sales despite having fewer products, indicating stronger demand efficiency.
 
-
+## Recommendations
+- Focus marketing and promotions on high-value and highly rated products.
+- Promote products with strong value scores to improve customer satisfaction.
+- Reduce excessive discounting in categories where discounts do not significantly improve perceived value.
+- Use customer reviews and ratings to guide pricing and product assortment decisions. 
 
 ## Tools Used
 - Python (Pandas, NumPy) – Data cleaning and preparation
 - SQL – Data validation and business metric verification
 - Power BI – Data visualization and dashboard development
+
+## Project Structure
+
+retail-business-performance-analysis
+│
+├── data – dataset used for analysis
+├── python – data cleaning and preparation scripts
+├── sql – SQL queries for validation and analysis
+├── powerbi – Power BI dashboard file
+├── screenshots – dashboard preview images
+├── presentation – project presentation slides
+│
+└── README.md – project documentation
