@@ -8,5 +8,5 @@ This folder contains the presentation slides summarizing the key findings from t
 - Sales performance and product distribution across categories
 - Analysis of pricing strategies and discount effectiveness
 - Comparison of product ratings and pricing to evaluate customer value perception
-- Identification of Low-value and high-rating products
+- Identification of high-performing and high-value products
 - Insights derived from the Power BI dashboard to support data-driven retail decisions
