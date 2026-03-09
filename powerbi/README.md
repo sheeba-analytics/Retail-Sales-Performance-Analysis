@@ -1,4 +1,4 @@
-##Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard visualizes retail business performance and pricing strategies.
 
