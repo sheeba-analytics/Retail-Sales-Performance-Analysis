@@ -65,13 +65,18 @@ Power BI was used for interactive data visualization and dashboard creation.
 
 ## Project Structure
 
-retail-business-performance-analysis
-│
+Retail-business-performance-analysis
+
 ├── data – dataset used for analysis
+
 ├── python – data cleaning and preparation scripts
+
 ├── sql – SQL queries for validation and analysis
+
 ├── powerbi – Power BI dashboard file
+
 ├── screenshots – dashboard preview images
+
 ├── presentation – project presentation slides
 │
 └── README.md – project documentation
