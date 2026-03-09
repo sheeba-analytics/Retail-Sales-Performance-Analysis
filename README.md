@@ -35,7 +35,7 @@ Power BI was used for interactive data visualization and dashboard creation.
 ![Sales Overview](screenshots/sales_overview.png)
 
 ### Category Performance Analysis
-![Category Performance Analysis](screenshots/category_performance.png)
+![Category Performance Analysis](screenshots/category_performance_analysis.png)
 
 ### Discount Strategy Analysis
 ![Discount Strategy Analysis](screenshots/discount_strategy_analysis.png)
