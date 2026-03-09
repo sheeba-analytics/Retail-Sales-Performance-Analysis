@@ -78,5 +78,5 @@ Retail-business-performance-analysis
 ├── screenshots – dashboard preview images
 
 ├── presentation – project presentation slides
-│
+
 └── README.md – project documentation
