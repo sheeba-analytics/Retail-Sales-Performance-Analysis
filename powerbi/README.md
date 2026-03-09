@@ -6,16 +6,22 @@ The Power BI dashboard visualizes retail business performance and pricing strate
 
 ## Key Visualizations
 
-• Product distribution by category
+- Product distribution by category
+- Sales contribution by category
+- Discount strategy across categories
+- Value score (rating per price unit)
+- Identifies value-for-money products
+- Relationship between product ratings and pricing
+- Product-level analysis for deeper insights
 
-• Sales contribution by category
+## Dashboard Features
 
-• Discount strategy across categories
+- Interactive filters for product category, sub_category levels to explore retail performance across different segments.
+- Implemented drill-through analysis to allow users to explore detailed product-level information,
+  enabling deeper insights into pricing, ratings, and sales performance.
 
-• Value score (rating per price unit)
+- KPI indicators highlighting key metrics such as Total Sales, Total Products, Average Discount Rate, and Average Customer Rating.
 
-• Identifies value-for-money products
+- Customized tooltips to provide additional contextual insights when hovering over visuals, helping users quickly understand category performance and value metrics.
 
-• Relationship between product ratings and pricing
-
-• Product-level analysis for deeper insights
+The dashboard helps identify high-performing product categories, evaluate discount strategies, and uncover value-for-money products based on pricing and customer ratings.
