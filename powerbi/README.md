@@ -15,30 +15,30 @@ The Power BI dashboard visualizes retail business performance and pricing strate
 • Average Customer Rating
 
 
-Category Performance
+### Category Performance
 
 • Product distribution by category
 
 • Sales contribution by category
 
 
-Discount Analysis
+### Discount Analysis
 
 • Discount strategy across categories
 
 
-Value Score Analysis
+### Value Score Analysis
 
 • Value score (rating per price unit)
 
 • Identifies value-for-money products
 
 
-Rating vs Price Analysis
+### Rating vs Price Analysis
 
 • Relationship between product ratings and pricing
 
 
-Drill-through Analysis
+### Drill-through Analysis
 
 • Product-level analysis for deeper insights
